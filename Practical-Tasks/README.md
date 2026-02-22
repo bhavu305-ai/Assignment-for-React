@@ -1,3 +1,3 @@
 # JavaScript-Practicals
 
-This folder contains all React practical assignments and lab exercises.
+This folder contains all JavaScript lab exercises.
